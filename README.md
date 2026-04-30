@@ -104,6 +104,7 @@ graph TD
     -   **Limitações:** O protótipo inicial usará dados simulados para não ferir a privacidade de usuários reais.
         
     -   **Próximos Passos:** Configuração do ambiente Docker e desenvolvimento do script de ingestão em Python.
+    -   **Referências:** internet... algumas ias... youtube... stackoverflow... reddit...
+    
 
 
-fiz assim, vc acha valido? preciso alterar algo?
