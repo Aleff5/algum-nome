@@ -1,4 +1,4 @@
-# SentinelStream: Pipeline de Moderação de Conteúdo em Tempo Real
+# Pipeline de Moderação de Conteúdo em Tempo Real
 
 Este projeto constitui a 1ª avaliação da disciplina de Engenharia de Dados. O objetivo é planejar um ciclo de vida de dados capaz de processar, analisar e armazenar fluxos de mensagens de chat para identificar comportamentos abusivos utilizando IA.
 
